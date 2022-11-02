@@ -1,5 +1,5 @@
 # Kalman Filter (By Matlab)
-<---------------------------------------------Kalman Filter-------------------------------------------------->  
+<---------------------------------------------Kalman Filter------------------------------------------------------>  
 Author: Wow-zheng                                      (https://github.com/Wow-zheng)  
 Illustrate:  
     This Code introduces how to use Kalman filtering (one-dimensional or multi-  
@@ -8,6 +8,6 @@ Illustrate:
     there is time. If you have any questions, please feel free to contact me:  
 Mail:
     zheng_zhang163@163.com  
-<--------------------------------------------SimpleExample--------------------------------------------------->
+<--------------------------------------------SimpleExample---------------------------------------------------->
 ![](https://github.com/Wow-zheng/Kalman-Filter/blob/master/Picture/SimpleExample.png)  
-<------------------------------------------------------------------------------------------------------------>  
+<-------------------------------------------------------------------------------------------------------------->  
